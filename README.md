@@ -60,11 +60,14 @@ I'm **Nicholas (Nick)**, an undergraduate student studying **Mathematics, Statis
 
 ## Hobbies
 - ♟️ Chess
-- 🎮 Gaming
-- 🐚 Seashell collecting
+- 🎮 Videogames
+- 🛠️ Videogame Modding
 - 🧩 Jigsaw Puzzles
-- 🛠️ Videogame modding
 - 🐦 Birdwatching
+- 🤖 Action Figure Collecting
+- 🐚 Seashell Collecting
+- 📜 Lore Design
+- 🐉 Dungeons and Dragons
 <!--
 **DrDynamist/DrDynamist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
