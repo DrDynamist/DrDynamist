@@ -1,6 +1,6 @@
 # Welcome to DrDynamist's GitHub 👋
 
-I'm **Nicholas (Nick)** — an undergraduate student studying **Mathematics, Statistics, and Economics** at the **University of Michigan (Ann Arbor)**.
+I'm **Nicholas (Nick)**, an undergraduate student studying **Mathematics, Statistics, and Economics** at the **University of Michigan - Ann Arbor**.
 
 - 🌱 Currently taking graduate coursework in **Time Series Analysis** and **Deep Learning**
 - 📈 Interests: **algorithms for market making**, **market microstructure analyses**
@@ -48,7 +48,7 @@ I'm **Nicholas (Nick)** — an undergraduate student studying **Mathematics, Sta
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-### IDE
+### IDEs
 <p>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
@@ -62,7 +62,7 @@ I'm **Nicholas (Nick)** — an undergraduate student studying **Mathematics, Sta
 - ♟️ Chess
 - 🎮 Gaming
 - 🐚 Seashell collecting
-- 🧩 Puzzles
+- 🧩 Jigsaw Puzzles
 - 🛠️ Videogame modding
 - 🐦 Birdwatching
 <!--
