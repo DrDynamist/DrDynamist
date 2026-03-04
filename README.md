@@ -11,7 +11,7 @@ I'm **Nicholas (Nick)**, an undergraduate student studying **Mathematics, Statis
 
 ---
 
-## Skills
+## Tech Stack
 
 ### Programming Languages
 <p>
