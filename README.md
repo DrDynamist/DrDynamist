@@ -1,4 +1,4 @@
-# Welcome to DrDynamist's GitHub Page :]
+# Welcome to Nick's GitHub Page :]
 
 I'm **Nicholas (Nick)**, an undergraduate student studying **Mathematics, Statistics, and Economics** at the **University of Michigan - Ann Arbor**.
 
