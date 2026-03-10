@@ -55,7 +55,7 @@ I'm **Nicholas (Nick)**, an undergraduate student studying **Mathematics, Statis
 
 ---
 
-## Hobbies
+## Hobbies (Very likely just escapes from reality)
 - ♟️ Chess
 - 🎮 Videogames
 - 🛠️ Videogame Modding
