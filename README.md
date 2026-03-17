@@ -6,7 +6,7 @@ I'm **Nicholas (Nick)**, an undergraduate student studying **Mathematics, Statis
 - 📈 Interests: **algorithms for market making**, **market microstructure analyses**
 - 🌐 More: **drdynamist.github.io**
 - 📫 Contact: <a href="mailto:namadeus@umich.edu">namadeus@umich.edu</a>
-- ☎️ Telephone: <a href="mailto:namadeus@umich.edu">734-507-2732</a>
+- ☎️ Telephone: 734-507-2732
 
 
 ---
