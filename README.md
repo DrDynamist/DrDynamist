@@ -3,7 +3,7 @@
 I'm **Nicholas (Nick)**, an undergraduate student studying **Mathematics, Statistics, and Economics** at the **University of Michigan - Ann Arbor**.
 
 - 🌱 Currently taking graduate coursework in **Time Series Analysis** and **Deep Learning**
-- 📈 Interests: **algorithms for market making**, **market microstructure analyses**
+- 📈 Interests: **algorithms for market making**, **market microstructure analyses**, fixed-income and Interest Rate Derivative Trading
 - 🌐 More: **drdynamist.github.io**
 - 📫 Contact: <a href="mailto:namadeus@umich.edu">namadeus@umich.edu</a>
 - ☎️ Telephone: 734-507-2732
