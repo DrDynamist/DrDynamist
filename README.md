@@ -65,7 +65,7 @@ I'm **Nicholas (Nick)**, an undergraduate student studying **Mathematics, Statis
 - 🐚 Seashell Collecting
 - 📜 Lore Design
 - 🐉 Dungeons and Dragons
-- I like cheeseburger (?????)
+- cheeseburgers 
 <!--
 AUTISM ATTACK AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 -->
